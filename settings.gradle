@@ -1,0 +1,1 @@
+include ':app', ':libs', ':SMSSDK-3.0.0'

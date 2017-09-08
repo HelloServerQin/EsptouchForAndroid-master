@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android" android:autoMirrored="true">
+    <item android:drawable="@drawable/color_menu3"/>
+    <item android:drawable="@drawable/contrl_menu_image" android:gravity="center" />
+
+</layer-list>

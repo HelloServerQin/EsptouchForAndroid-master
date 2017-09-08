@@ -1,0 +1,20 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    repositories {
+        jcenter()
+        flatDir{
+            dirs 'libs'
+        }
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.3.3'
+//        compile name:'SMSSDK-<3.0.0>',ext:'aar'
+//        compile fileTree(includes: ['*.jar'],dir: 'libs')
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\color_menu3.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\color_menu3.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\layer_fei_image.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\layer_fei_image.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\button_nonr_draw.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\button_nonr_draw.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4\\contrl_menu_image.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\contrl_menu_image.xml"
+    }
+]
