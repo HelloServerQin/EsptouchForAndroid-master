@@ -1,7 +1,31 @@
 [
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right_menu.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\right_menu.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_list_item.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\pop_list_item.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_net.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\listview_net.xml"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\edit.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\toast_layout.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\toast_layout.xml"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control_facility.xml",
@@ -32,12 +56,32 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\pop_listview.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\splash_screen_activity.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\splash_screen_activity.xml"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_list_item.xml",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\pop_list_item.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\pop_listview.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\pop_listview.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\list_item.xml"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\esptouch_demo_activity.xml",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\esptouch_demo_activity.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\esptouch_demo_activity.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\esptouch_demo_activity.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_control_facility.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\activity_control_facility.xml"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_item.xml",

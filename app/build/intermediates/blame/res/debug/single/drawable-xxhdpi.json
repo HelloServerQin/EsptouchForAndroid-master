@@ -12,7 +12,23 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\main_back.png"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\back.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\back.png"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\icon_app.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\icon_app.png"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\main_icon.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\main_icon.png"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\main_icon.png",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\main_icon.png"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\main_back.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-xxhdpi\\main_back.png"
     }
 ]

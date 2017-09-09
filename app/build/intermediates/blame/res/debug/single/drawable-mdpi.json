@@ -1,5 +1,9 @@
 [
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_app.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-mdpi\\icon_app.png"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\icon_app.png",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-mdpi\\icon_app.png"
     }
