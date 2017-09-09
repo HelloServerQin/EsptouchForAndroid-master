@@ -25,9 +25,8 @@
     <uses-permission android:name="android.permission.READ_SMS" />
     <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-
-    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
-    <uses-permission android:name="android.permission.REBOOT"/>
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.REBOOT" />
 
     <application
         android:name="com.mob.MobApplication"
@@ -49,39 +48,38 @@
         <activity
             android:name="com.espressif.iot.esptouch.demo_activity.SplashActivity"
             android:label="@string/title_activity_main"
-            android:theme="@style/Theme.AppStartLoadTranslucent"
-            >
+            android:theme="@style/Theme.AppStartLoadTranslucent">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
+
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-
         <activity
             android:name="com.espressif.iot.esptouch.demo_activity.KeepLiveActivity"
             android:configChanges="keyboardHidden|orientation|screenSize|navigation|keyboard"
-            android:theme="@style/liveActivityStyle"
-        />
-
+            android:theme="@style/liveActivityStyle" />
         <activity
             android:name="com.espressif.iot.esptouch.demo_activity.ControlFacility"
-            android:label="@string/title_activity_control_facility"></activity>
-
-        <activity android:name="com.espressif.iot.esptouch.demo_activity.MenuTestActivity"/>
+            android:label="@string/title_activity_control_facility" />
+        <activity android:name="com.espressif.iot.esptouch.demo_activity.MenuTestActivity" />
 
         <service android:name="com.espressif.iot.esptouch.serveice.BrocastServiceListener" />
+        <service android:name="com.espressif.iot.esptouch.serveice.CloseService" />
 
         <receiver android:name="com.espressif.iot.esptouch.brocastReceiver.DMReceiver">
             <intent-filter>
-                <action android:name="android.intent.action.REBOOT"/>
-                <action android:name="android.intent.action.BOOT_COMPLETED"/>
-                <action android:name="android.intent.action.SCREEN_OFF"/>
-                <action android:name="android.intent.action.SCREEN_ON"/>
-                <action android:name="android.intent.action.USER_PRESENT"/>
-                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
-                <action android:name="android.intent.action.ACTION_POWER_CONNECTED"/>
+                <action android:name="android.intent.action.REBOOT" />
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+                <action android:name="android.intent.action.SCREEN_OFF" />
+                <action android:name="android.intent.action.SCREEN_ON" />
+                <action android:name="android.intent.action.USER_PRESENT" />
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE" />
+                <action android:name="android.intent.action.ACTION_POWER_CONNECTED" />
             </intent-filter>
         </receiver>
+
+        <activity android:name="com.espressif.iot.esptouch.demo_activity.SubordinationActivity"></activity>
     </application>
 
 </manifest>

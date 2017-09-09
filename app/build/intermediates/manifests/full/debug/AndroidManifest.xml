@@ -75,6 +75,7 @@
         <activity android:name="com.espressif.iot.esptouch.demo_activity.MenuTestActivity" />
 
         <service android:name="com.espressif.iot.esptouch.serveice.BrocastServiceListener" />
+        <service android:name="com.espressif.iot.esptouch.serveice.CloseService" />
 
         <receiver android:name="com.espressif.iot.esptouch.brocastReceiver.DMReceiver" >
             <intent-filter>
@@ -88,6 +89,7 @@
             </intent-filter>
         </receiver>
 
+        <activity android:name="com.espressif.iot.esptouch.demo_activity.SubordinationActivity" />
         <activity
             android:name="net.youmi.android.AdBrowser"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout"
