@@ -4,16 +4,16 @@
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\edit.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\layout\\abc_screen_simple.xml"
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\layout\\abc_screen_simple.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\listview_net.xml",
@@ -56,12 +56,12 @@
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\clockmanager.xml"
     },
     {
-        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
-        "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main_menu.xml",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\main_menu.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
@@ -100,12 +100,12 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
-        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\edit.xml"
-    },
-    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\edit.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
@@ -186,10 +186,6 @@
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
-    },
-    {
-        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\right_menu.xml",
-        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\layout\\right_menu.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",

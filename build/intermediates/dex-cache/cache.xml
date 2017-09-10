@@ -3,30 +3,75 @@
 
     <item
         is-multidex="false"
-        jar="D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\libs\MobCommons-2017.0607.1736.jar"
+        jar="C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="2e924678e6ca631f46c01de1e0af081f1a3489f9">
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\classes_ad115a56e03d43366f62bf6f661249619d437b0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\110d261b281e5492606fdd9fee87441d6c475758\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\classes_bfc7b4f0c4edfbf883e564e67f5d49ae414fac46.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidStudio\EsptouchForAndroid-master\app\libs\MobCommons-2017.0607.1736.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="26d8b21098208806ac92abba3cbbf9859cda903a">
-        <dex dex="D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\MobCommons-2017.0607.1736_f9aa7e5e5737df47dae5d8d238280bcd905fc09b.jar" />
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\MobCommons-2017.0607.1736_85f165ca90ad9ffb187eebfd93d2189e1b459e38.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\libs\MobTools-2017.0607.1736.jar"
+        jar="C:\Users\Administrator\.android\build-cache\d3cebf8b9a7847353e9632bde2ab661a83ebf403\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\classes_1222bc20315a94d9a1aabcce842d3f6f2055db98.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="H:\AndroidStudio\EsptouchForAndroid-master\app\libs\MobTools-2017.0607.1736.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="fcd18b5e54c100ded555e92c371c16bea49002ed">
-        <dex dex="D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\MobTools-2017.0607.1736_bec0117475b63e96cc997d81ebcce048fb548cc5.jar" />
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\MobTools-2017.0607.1736_f02bae337c366fdacac2a085ddd5222034edd3db.jar" />
     </item>
     <item
         is-multidex="false"
-        jar="D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
+        jar="H:\AndroidStudio\EsptouchForAndroid-master\app\libs\org.eclipse.paho.client.mqttv3-1.0.2.jar"
         jumboMode="false"
         optimize="true"
         revision="26.0.1"
         sha1="59bf7326dbb92849a1f3be7aa30b3b1523371f6c">
-        <dex dex="D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2_f73252f0e614d3d74f39835d3ec3e0749ab9365b.jar" />
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\org.eclipse.paho.client.mqttv3-1.0.2_2c6e376b453504ed87582d26ebdcf5de285af636.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\58422806f1fc3191e5bd09ab0ae5a431bdcabc02\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="f05ef472841da86c5b42cf99abcb3ccd63565e49">
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\classes_b9f4bd250ae6ea197a83d000654886f0c6e7033b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\1eee483e628590ca11594f27d0205535d5250a6f\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="H:\AndroidStudio\EsptouchForAndroid-master\app\build\intermediates\pre-dexed\debug\classes_743ad11b1876cd3024e77d68d036603cf4da4f5e.jar" />
     </item>
 
 </items>

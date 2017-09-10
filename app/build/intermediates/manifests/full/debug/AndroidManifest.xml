@@ -25,12 +25,14 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.RECEIVE_SMS" />
     <uses-permission android:name="android.permission.READ_SMS" />
-    <uses-permission
-        android:name="android.permission.GET_TASKS"
-        android:maxSdkVersion="20" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
     <uses-permission android:name="android.permission.REBOOT" />
+
+    <!-- 如果使用积分墙广告,还需要配置下面权限 -->
+    <uses-permission
+        android:name="android.permission.GET_TASKS"
+        android:maxSdkVersion="20" />
     <uses-permission android:name="android.permission.PACKAGE_USAGE_STATS" /> <!-- 以下为可选权限 -->
     <uses-permission android:name="com.android.launcher.permission.INSTALL_SHORTCUT" />
 
@@ -73,6 +75,9 @@
             android:name="com.espressif.iot.esptouch.demo_activity.ControlFacility"
             android:label="@string/title_activity_control_facility" />
         <activity android:name="com.espressif.iot.esptouch.demo_activity.MenuTestActivity" />
+        <activity
+            android:name="com.espressif.iot.esptouch.demo_activity.SubordinationActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
 
         <service android:name="com.espressif.iot.esptouch.serveice.BrocastServiceListener" />
         <service android:name="com.espressif.iot.esptouch.serveice.CloseService" />
@@ -89,7 +94,7 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name="com.espressif.iot.esptouch.demo_activity.SubordinationActivity" />
+        <activity android:name="com.espressif.iot.esptouch.demo_activity.ClockSetActivity" />
         <activity
             android:name="net.youmi.android.AdBrowser"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout"

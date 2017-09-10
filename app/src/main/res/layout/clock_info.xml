@@ -7,8 +7,10 @@
 
 
     <LinearLayout
+        android:id="@+id/clockInfo"
+        android:gravity="center"
         android:layout_width="0dp"
-        android:layout_height="wrap_content"
+        android:layout_height="match_parent"
         android:layout_weight="2"
         android:orientation="vertical">
 
@@ -34,6 +36,7 @@
 
         <TextView
             android:id="@+id/select_check"
+            android:layout_gravity="left"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginLeft="5dp"
@@ -44,10 +47,15 @@
             android:textSize="12sp" />
 
     </LinearLayout>
-
+    <LinearLayout
+        android:id="@+id/open_wrap"
+        android:gravity="center"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
     <Switch
         android:id="@+id/is_open"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content" />
+    </LinearLayout>
 
 </LinearLayout>
