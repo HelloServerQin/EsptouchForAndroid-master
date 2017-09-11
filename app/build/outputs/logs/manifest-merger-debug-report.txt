@@ -1,303 +1,303 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:2:1-86:12
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:2:1-86:12
 	package
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:3:5-46
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:3:5-46
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
 	android:versionName
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:5:5-35
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:5:5-35
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:4:5-29
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:2:11-69
 uses-sdk
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:7:5-44
-MERGED from [:SMSSDK-3.0.0:] C:\Users\Administrator\.android\build-cache\ae6dfb092774408096fd9771dee3967b5cbc5a03\output\AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\e6e3841c68c7970e696512b6cfa1af761fbaa555\output\AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\da5a55e537059e1863a217521c9f1c9c2d4e11e4\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\0dbd9a661efc1fc022fd12414143d87541ce2720\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\ff35ea2d46e6fc33c421bc844b356bb1154f2130\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\c4bb559acd5fa79313c5c0da11f1067c42988e70\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\f4b4f15617c7cd7c88de69ae89cf801bbd8a839d\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\7551fa55ef18b194665b01eb1aa3bd854134eb12\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\383dd6ca7ddfe0f3c81cc15db68b20e1d9499b98\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\8b43de36e68652c4378993d73f0142ab3a31b6c7\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b728a711d628740f71852e699f534094f6e476a7\output\AndroidManifest.xml:21:5-23:58
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:7:5-44
+MERGED from [:SMSSDK-3.0.0:] C:\Users\Administrator\.android\build-cache\58422806f1fc3191e5bd09ab0ae5a431bdcabc02\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\36aefefe09cfc49dae932768dff6e5ba4a1df96d\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\110d261b281e5492606fdd9fee87441d6c475758\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5ed5c030334d6195ecc6f7a1bce69b67d94f967a\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f48212bfeb3c6ce7dcca3f0c77ec094f2ffd3ce5\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\0b75da83cdf53bc62effcb9edda9660c465e9e61\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\e8cef444e402baf0a547509697c6ad55e95de60e\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\0b9433fc930710d90caef6ba56e92362ceda3879\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\d3cebf8b9a7847353e9632bde2ab661a83ebf403\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\1eee483e628590ca11594f27d0205535d5250a6f\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\fee57d9af50bba2c5a9620d9998948feb16a850c\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\da5a55e537059e1863a217521c9f1c9c2d4e11e4\output\AndroidManifest.xml:23:9-75
+		ADDED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\110d261b281e5492606fdd9fee87441d6c475758\output\AndroidManifest.xml:23:9-75
 	android:targetSdkVersion
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:7:15-41
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
-		INJECTED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:7:15-41
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
+		INJECTED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.CALL_PHONE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:9:5-69
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:9:5-69
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:9:22-66
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:9:22-66
 uses-permission#android.permission.INTERNET
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:10:5-67
-MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:6:2-64
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:6:2-64
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:10:22-64
 uses-permission#android.permission.ACCESS_WIFI_STATE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:11:5-76
-MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:9:2-73
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:11:5-76
+MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:9:2-73
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:11:22-73
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:11:22-73
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:12:5-79
-MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:8:2-76
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:12:5-79
+MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:8:2-76
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:12:22-76
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:12:22-76
 uses-permission#android.permission.CHANGE_WIFI_MULTICAST_STATE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:13:5-86
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:13:5-86
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:13:22-83
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:13:22-83
 uses-permission#android.permission.CHANGE_WIFI_STATE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:14:5-76
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:14:5-76
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:14:22-73
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:14:22-73
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:15:5-81
-MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:10:2-78
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:15:5-81
+MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:10:2-78
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:15:22-78
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:15:22-78
 uses-permission#android.permission.READ_PHONE_STATE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:16:5-75
-MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:7:2-72
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:16:5-75
+MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:7:2-72
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:16:22-72
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:16:22-72
 uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:17:5-80
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:17:5-80
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:17:22-77
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:17:22-77
 uses-permission#android.permission.READ_CONTACTS
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:18:5-72
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:18:5-72
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:18:22-69
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:18:22-69
 uses-permission#android.permission.RECEIVE_SMS
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:24:5-70
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:24:5-70
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:24:22-67
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:24:22-67
 uses-permission#android.permission.READ_SMS
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:25:5-67
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:25:5-67
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:25:22-64
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:25:22-64
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:26:5-79
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:26:5-79
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:26:22-76
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:26:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:27:5-81
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:27:5-81
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:27:22-78
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:27:22-78
 uses-permission#android.permission.REBOOT
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:28:5-65
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:28:5-65
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:28:22-62
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:28:22-62
 application
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:30:5-84:19
-MERGED from [:SMSSDK-3.0.0:] C:\Users\Administrator\.android\build-cache\ae6dfb092774408096fd9771dee3967b5cbc5a03\output\AndroidManifest.xml:11:5-12:19
-MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:22:2-47:17
-MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\e6e3841c68c7970e696512b6cfa1af761fbaa555\output\AndroidManifest.xml:9:5-20
-MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\da5a55e537059e1863a217521c9f1c9c2d4e11e4\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\0dbd9a661efc1fc022fd12414143d87541ce2720\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\ff35ea2d46e6fc33c421bc844b356bb1154f2130\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\c4bb559acd5fa79313c5c0da11f1067c42988e70\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\f4b4f15617c7cd7c88de69ae89cf801bbd8a839d\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\7551fa55ef18b194665b01eb1aa3bd854134eb12\output\AndroidManifest.xml:29:5-20
-MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\383dd6ca7ddfe0f3c81cc15db68b20e1d9499b98\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\8b43de36e68652c4378993d73f0142ab3a31b6c7\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b728a711d628740f71852e699f534094f6e476a7\output\AndroidManifest.xml:29:5-20
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:30:5-84:19
+MERGED from [:SMSSDK-3.0.0:] C:\Users\Administrator\.android\build-cache\58422806f1fc3191e5bd09ab0ae5a431bdcabc02\output\AndroidManifest.xml:11:5-12:19
+MERGED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:22:2-47:17
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\36aefefe09cfc49dae932768dff6e5ba4a1df96d\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:appcompat-v7:24.2.1] C:\Users\Administrator\.android\build-cache\110d261b281e5492606fdd9fee87441d6c475758\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5ed5c030334d6195ecc6f7a1bce69b67d94f967a\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f48212bfeb3c6ce7dcca3f0c77ec094f2ffd3ce5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\0b75da83cdf53bc62effcb9edda9660c465e9e61\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\e8cef444e402baf0a547509697c6ad55e95de60e\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\0b9433fc930710d90caef6ba56e92362ceda3879\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\d3cebf8b9a7847353e9632bde2ab661a83ebf403\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:24.2.1] C:\Users\Administrator\.android\build-cache\1eee483e628590ca11594f27d0205535d5250a6f\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\fee57d9af50bba2c5a9620d9998948feb16a850c\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:34:9-41
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:34:9-41
 	android:allowBackup
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:32:9-35
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:32:9-35
 	android:icon
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:33:9-42
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:33:9-42
 	android:theme
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:35:9-40
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:35:9-40
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:31:9-46
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:31:9-46
 meta-data#Mob-AppKey
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:36:9-38:45
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:36:9-38:45
 	android:value
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:38:13-42
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:38:13-42
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:37:13-38
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:37:13-38
 meta-data#Mob-AppSecret
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:39:9-41:64
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:39:9-41:64
 	android:value
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:41:13-61
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:41:13-61
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:40:13-41
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:40:13-41
 activity#com.espressif.iot.esptouch.demo_activity.EsptouchDemoActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:43:9-46:52
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:43:9-46:52
 	android:screenOrientation
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:46:13-49
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:46:13-49
 	android:label
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:45:13-45
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:45:13-45
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:44:13-89
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:44:13-89
 activity#com.espressif.iot.esptouch.demo_activity.SplashActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:47:9-56:20
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:47:9-56:20
 	android:label
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:49:13-56
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:49:13-56
 	android:theme
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:50:13-65
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:50:13-65
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:48:13-83
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:48:13-83
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:51:13-55:29
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:51:13-55:29
 action#android.intent.action.MAIN
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:52:17-69
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:52:17-69
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:52:25-66
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:52:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:54:17-77
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:54:17-77
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:54:27-74
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:54:27-74
 activity#com.espressif.iot.esptouch.demo_activity.KeepLiveActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:57:9-60:56
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:57:9-60:56
 	android:configChanges
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:59:13-94
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:59:13-94
 	android:theme
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:60:13-53
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:60:13-53
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:58:13-85
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:58:13-85
 activity#com.espressif.iot.esptouch.demo_activity.ControlFacility
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:61:9-63:71
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:61:9-63:71
 	android:label
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:63:13-68
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:63:13-68
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:62:13-84
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:62:13-84
 activity#com.espressif.iot.esptouch.demo_activity.MenuTestActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:64:9-94
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:64:9-94
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:64:19-91
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:64:19-91
 activity#com.espressif.iot.esptouch.demo_activity.SubordinationActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:65:9-66:71
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:65:9-66:71
 	android:theme
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:66:13-69
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:66:13-69
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:65:19-96
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:65:19-96
 service#com.espressif.iot.esptouch.serveice.BrocastServiceListener
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:68:9-94
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:68:9-94
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:68:18-91
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:68:18-91
 service#com.espressif.iot.esptouch.serveice.CloseService
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:69:9-84
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:69:9-84
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:69:18-81
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:69:18-81
 receiver#com.espressif.iot.esptouch.brocastReceiver.DMReceiver
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:71:9-81:20
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:71:9-81:20
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:71:19-87
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:71:19-87
 intent-filter#android.intent.action.ACTION_POWER_CONNECTED+android.intent.action.BOOT_COMPLETED+android.intent.action.REBOOT+android.intent.action.SCREEN_OFF+android.intent.action.SCREEN_ON+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:72:13-80:29
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:72:13-80:29
 action#android.intent.action.REBOOT
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:73:17-71
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:73:17-71
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:73:25-68
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:73:25-68
 action#android.intent.action.BOOT_COMPLETED
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:74:17-79
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:74:17-79
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:74:25-76
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:74:25-76
 action#android.intent.action.SCREEN_OFF
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:75:17-75
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:75:17-75
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:75:25-72
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:75:25-72
 action#android.intent.action.SCREEN_ON
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:76:17-74
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:76:17-74
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:76:25-71
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:76:25-71
 action#android.intent.action.USER_PRESENT
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:77:17-77
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:77:17-77
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:77:25-74
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:77:25-74
 action#android.net.conn.CONNECTIVITY_CHANGE
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:78:17-79
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:78:17-79
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:78:25-76
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:78:25-76
 action#android.intent.action.ACTION_POWER_CONNECTED
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:79:17-87
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:79:17-87
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:79:25-84
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:79:25-84
 activity#com.espressif.iot.esptouch.demo_activity.ClockSetActivity
-ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:82:9-83:71
+ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:82:9-83:71
 	android:theme
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:83:13-69
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:83:13-69
 	android:name
-		ADDED from D:\Users\Administrator\AndroidStudioProjects\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:82:19-91
+		ADDED from H:\AndroidStudio\EsptouchForAndroid-master\app\src\main\AndroidManifest.xml:82:19-91
 uses-permission#android.permission.GET_TASKS
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:12:2-14:32
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:12:2-14:32
 	android:maxSdkVersion
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:14:3-29
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:14:3-29
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:13:3-46
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:13:3-46
 uses-permission#android.permission.PACKAGE_USAGE_STATS
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:15:2-17:41
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:15:2-17:41
 	tools:ignore
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:17:3-38
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:17:3-38
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:16:3-56
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:16:3-56
 uses-permission#com.android.launcher.permission.INSTALL_SHORTCUT
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:20:2-85
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:20:2-85
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:20:19-82
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:20:19-82
 activity#net.youmi.android.AdBrowser
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:23:3-29:15
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:23:3-29:15
 	android:resizeableActivity
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:26:4-38
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:26:4-38
 	android:configChanges
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:25:4-106
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:25:4-106
 	tools:targetApi
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:28:4-23
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:28:4-23
 	android:theme
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:27:4-57
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:27:4-57
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:24:4-46
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:24:4-46
 service#net.youmi.android.AdService
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:31:3-34:14
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:31:3-34:14
 	android:exported
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:33:4-28
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:33:4-28
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:32:4-46
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:32:4-46
 service#net.youmi.android.ExpService
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:35:3-38:14
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:35:3-38:14
 	android:exported
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:37:4-28
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:37:4-28
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:36:4-47
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:36:4-47
 receiver#net.youmi.android.AdReceiver
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:40:3-45:15
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:40:3-45:15
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:40:13-56
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:40:13-56
 intent-filter#android.intent.action.PACKAGE_ADDED
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:41:4-44:21
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:41:4-44:21
 action#android.intent.action.PACKAGE_ADDED
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:42:5-66
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:42:5-66
 	android:name
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:42:13-63
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:42:13-63
 data
-ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:43:5-38
+ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:43:5-38
 	android:scheme
-		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\315c13b594359c648125f960665c8878dcfa0dc5\output\AndroidManifest.xml:43:11-35
+		ADDED from [:YoumiSdk_v7.5.0_2017-07-18:] C:\Users\Administrator\.android\build-cache\d4713f3fbdecf66ffecc90127405e494a98dd080\output\AndroidManifest.xml:43:11-35
 meta-data#android.support.VERSION
-ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\0dbd9a661efc1fc022fd12414143d87541ce2720\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\ff35ea2d46e6fc33c421bc844b356bb1154f2130\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\c4bb559acd5fa79313c5c0da11f1067c42988e70\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\f4b4f15617c7cd7c88de69ae89cf801bbd8a839d\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\7551fa55ef18b194665b01eb1aa3bd854134eb12\output\AndroidManifest.xml:25:5-27:34
-MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\b728a711d628740f71852e699f534094f6e476a7\output\AndroidManifest.xml:25:5-27:34
+ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5ed5c030334d6195ecc6f7a1bce69b67d94f967a\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Administrator\.android\build-cache\f48212bfeb3c6ce7dcca3f0c77ec094f2ffd3ce5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Administrator\.android\build-cache\0b75da83cdf53bc62effcb9edda9660c465e9e61\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Administrator\.android\build-cache\e8cef444e402baf0a547509697c6ad55e95de60e\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Administrator\.android\build-cache\0b9433fc930710d90caef6ba56e92362ceda3879\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Administrator\.android\build-cache\fee57d9af50bba2c5a9620d9998948feb16a850c\output\AndroidManifest.xml:25:5-27:34
 	android:value
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\0dbd9a661efc1fc022fd12414143d87541ce2720\output\AndroidManifest.xml:27:9-31
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5ed5c030334d6195ecc6f7a1bce69b67d94f967a\output\AndroidManifest.xml:27:9-31
 	android:name
-		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\0dbd9a661efc1fc022fd12414143d87541ce2720\output\AndroidManifest.xml:26:9-47
+		ADDED from [com.android.support:support-v4:25.3.1] C:\Users\Administrator\.android\build-cache\5ed5c030334d6195ecc6f7a1bce69b67d94f967a\output\AndroidManifest.xml:26:9-47
