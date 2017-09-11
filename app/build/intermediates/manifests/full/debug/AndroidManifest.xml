@@ -94,7 +94,9 @@
             </intent-filter>
         </receiver>
 
-        <activity android:name="com.espressif.iot.esptouch.demo_activity.ClockSetActivity" />
+        <activity
+            android:name="com.espressif.iot.esptouch.demo_activity.ClockSetActivity"
+            android:theme="@style/Theme.AppCompat.Light.NoActionBar" />
         <activity
             android:name="net.youmi.android.AdBrowser"
             android:configChanges="keyboard|keyboardHidden|orientation|screenSize|smallestScreenSize|screenLayout"
