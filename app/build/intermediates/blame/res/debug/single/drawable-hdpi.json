@@ -16,12 +16,12 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\qp.png"
     },
     {
-        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_18.png",
-        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\icon_18.png"
-    },
-    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_03.png",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\icon_03.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_18.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\icon_18.png"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_03.png",
@@ -48,12 +48,12 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
     },
     {
-        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_06.png",
-        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\icon_06.png"
-    },
-    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_15.png",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\icon_15.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_06.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable-hdpi\\icon_06.png"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon_15.png",
