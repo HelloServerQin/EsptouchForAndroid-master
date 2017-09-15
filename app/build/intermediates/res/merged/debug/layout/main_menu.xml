@@ -11,18 +11,6 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <ImageButton
-            android:id="@+id/main_back"
-            android:layout_width="0dp"
-            android:layout_height="match_parent"
-            android:layout_weight="0.2"
-            android:src="@drawable/contrl_menu"
-            android:background="@drawable/color_menu3"
-            android:scaleType="centerCrop"
-            android:padding="20dp"
-            android:clickable="true" />
-
-
         <TextView
             android:layout_width="1dp"
             android:layout_height="match_parent"
@@ -32,18 +20,76 @@
             android:layout_width="0dp"
             android:layout_height="50dp"
             android:layout_weight="1"
+            android:background="#0099FF"
             android:gravity="center"
-            android:paddingLeft="-50dp"
             android:text="智能魔方"
             android:textColor="#fff"
-            android:background="#0099FF"
             android:textSize="22sp" />
 
     </LinearLayout>
     <!--和擎首页宣传-->
-   <ListView
-       android:layout_marginTop="3dp"
-       android:id="@+id/slimelistview"
-       android:layout_width="match_parent"
-       android:layout_height="match_parent"/>
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@android:color/transparent"
+        >
+        <ListView
+            android:id="@+id/slimelistview"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+             />
+
+        <RadioGroup
+            android:id="@+id/button_menu"
+            android:layout_width="wrap_content"
+            android:layout_height="45dp"
+            android:layout_gravity="center_horizontal|bottom"
+            android:layout_marginBottom="10dp"
+            android:background="@drawable/add_text_background"
+            android:gravity="center"
+            android:orientation="horizontal">
+
+            <RadioButton
+                android:id="@+id/mulit_facility"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:button="@null"
+                android:padding="8dp"
+                android:text="控制多个"
+                android:background="@drawable/button_select_back"
+                android:textColor="#88000000" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="20dp"
+                android:background="#33000000" />
+
+            <RadioButton
+                android:id="@+id/add_facility"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:button="@null"
+                android:padding="8dp"
+                android:background="@drawable/button_select_back"
+                android:text="添加设备"
+                android:textColor="#88000000" />
+
+            <View
+                android:layout_width="1dp"
+                android:layout_height="20dp"
+                android:background="#33000000" />
+
+            <RadioButton
+                android:id="@+id/timer_facility"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:button="@null"
+                android:padding="8dp"
+                android:background="@drawable/button_select_back"
+                android:text="定时控制"
+                android:textColor="#88000000" />
+        </RadioGroup>
+    </FrameLayout>
 </LinearLayout>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_marginTop="10dp"
+    android:layout_marginTop="20dp"
     android:layout_height="wrap_content">
     <EditText
         android:id="@+id/et_alias"
@@ -17,7 +17,7 @@
         android:layout_weight="0.3"
         android:text="提交"
         android:gravity="center"
-        android:background="@drawable/buttonbackground"
+        android:background="@drawable/submit_background"
         android:textSize="14sp"
         android:clickable="true"
         />
