@@ -11,10 +11,6 @@
         android:gravity="center"
         android:orientation="horizontal">
 
-        <TextView
-            android:layout_width="1dp"
-            android:layout_height="match_parent"
-            android:background="#aaffffff" />
 
         <TextView
             android:layout_width="0dp"
@@ -25,6 +21,20 @@
             android:text="智能魔方"
             android:textColor="#fff"
             android:textSize="22sp" />
+
+        <TextView
+            android:layout_width="1dp"
+            android:layout_height="match_parent"
+            android:background="#aaffffff" />
+        <ImageView
+            android:id="@+id/main_task"
+            android:onClick="onStartActivity"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:padding="10dp"
+            android:background="#0099FF"
+            android:src="@drawable/icon_25"
+            />
 
     </LinearLayout>
     <!--和擎首页宣传-->
@@ -54,6 +64,7 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:layout_marginLeft="10dp"
+                android:onClick="onStartActivity"
                 android:button="@null"
                 android:padding="8dp"
                 android:text="控制多个"
@@ -71,6 +82,7 @@
                 android:layout_height="wrap_content"
                 android:button="@null"
                 android:padding="8dp"
+                android:onClick="onStartActivity"
                 android:background="@drawable/button_select_back"
                 android:text="添加设备"
                 android:textColor="#88000000" />
@@ -87,7 +99,10 @@
                 android:layout_marginRight="10dp"
                 android:button="@null"
                 android:padding="8dp"
+                android:onClick="onStartActivity"
                 android:background="@drawable/button_select_back"
+                android:textColorHighlight="#896969"
+                android:textColorLink="#653989"
                 android:text="定时控制"
                 android:textColor="#88000000" />
         </RadioGroup>

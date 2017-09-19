@@ -12,6 +12,10 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\reigster_draw_press.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confrim.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\confrim.png"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
@@ -36,6 +40,10 @@
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\back_control.png"
     },
     {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c_images.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\c_images.png"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\edit.png",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\edit.png"
     },
@@ -48,12 +56,20 @@
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\control_buton.xml"
     },
     {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\a.xml"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_vector_test.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_vector_test.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_image.png",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\toast_image.png"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\a.xml"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\toast_back.xml",
@@ -80,6 +96,10 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
     {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\c.xml"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sms_back.xml",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\sms_back.xml"
     },
@@ -94,6 +114,10 @@
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\reigster_draw.xml",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\reigster_draw.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\cancel.png"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_select_draw.xml",
@@ -114,6 +138,10 @@
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\b.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\text_button_dump.xml",
@@ -168,8 +196,20 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\back_edit_draw_borda.xml"
     },
     {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_images.jpg",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\b_images.jpg"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\open_03.png",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\open_03.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d_images.jpg",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\d_images.jpg"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_images.jpg",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\a_images.jpg"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbackground.xml",
@@ -204,6 +244,10 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\layer_image.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\submit_back_close.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\submit_back_close.xml"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
     },
@@ -224,6 +268,10 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\text_button_dump.xml"
     },
     {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\cancel.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\cancel.png"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_ab_back_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_ic_ab_back_material.xml"
     },
@@ -238,6 +286,10 @@
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\d.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
@@ -276,6 +328,10 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\close_03.png"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\submit_back_open.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\submit_back_open.xml"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_select_non.xml",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\back_select_non.xml"
     },
@@ -304,6 +360,10 @@
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\lock_point_press.png"
     },
     {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e_images.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\e_images.png"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_btn_check_material.xml"
     },
@@ -316,8 +376,16 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
     {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\e.xml"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f_images.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\f_images.png"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\popback_select.xml",
@@ -334,6 +402,14 @@
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\b.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\confrim.png",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\confrim.png"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
@@ -400,16 +476,32 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d_images.jpg",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\d_images.jpg"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_splash.xml",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\back_splash.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\b_images.jpg",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\b_images.jpg"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lock_point_normal.png",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\lock_point_normal.png"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\a_images.jpg",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\a_images.jpg"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\layer_image.xml",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\layer_image.xml"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\f.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
@@ -444,6 +536,10 @@
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_btn_colored_material.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\e.xml"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\110d261b281e5492606fdd9fee87441d6c475758\\output\\res\\drawable\\abc_switch_thumb_material.xml"
     },
@@ -470,6 +566,14 @@
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\submit_back_open.xml",
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\submit_back_open.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f_images.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\f_images.png"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\e_images.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\e_images.png"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\button_select.xml",
@@ -508,6 +612,10 @@
         "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\openc.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\submit_background.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\submit_background.xml"
+    },
+    {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_popup.xml",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\list_popup.xml"
     },
@@ -518,6 +626,14 @@
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ic_voice_search_api_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c_images.png",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\c_images.png"
+    },
+    {
+        "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\d.xml",
+        "source": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\d.xml"
     },
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_tick_mark_material.xml",
@@ -550,6 +666,10 @@
     {
         "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\openc.xml",
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\openc.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\c.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\c.xml"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back_control.png",
@@ -600,11 +720,19 @@
         "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\controlfacility.xml"
     },
     {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\f.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\f.xml"
+    },
+    {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_edit_text_material.xml"
     },
     {
         "merged": "D:\\Users\\Administrator\\AndroidStudioProjects\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
         "source": "C:\\Users\\Administrator\\.android\\build-cache\\da5a55e537059e1863a217521c9f1c9c2d4e11e4\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\buttonbackground_select.xml",
+        "source": "H:\\AndroidStudio\\EsptouchForAndroid-master\\app\\src\\main\\res\\drawable\\buttonbackground_select.xml"
     }
 ]

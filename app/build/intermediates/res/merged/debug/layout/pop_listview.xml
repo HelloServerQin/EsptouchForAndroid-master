@@ -7,7 +7,8 @@
     >
     <LinearLayout
         android:id="@+id/edit_facility_name"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="1"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
@@ -15,6 +16,7 @@
         android:paddingBottom="5dp"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
+        android:background="#99956859"
         >
         <ImageView
             android:layout_width="30dp"
@@ -29,7 +31,8 @@
     </LinearLayout>
     <LinearLayout
         android:id="@+id/delete_facility"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="1"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
@@ -37,6 +40,7 @@
         android:paddingBottom="5dp"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
+        android:background="#99895868"
         >
         <ImageView
             android:layout_width="30dp"
@@ -51,7 +55,8 @@
     </LinearLayout>
     <LinearLayout
         android:id="@+id/clock_facility"
-        android:layout_width="wrap_content"
+        android:layout_width="0dp"
+        android:layout_weight="1"
         android:layout_height="wrap_content"
         android:orientation="vertical"
         android:gravity="center"
@@ -59,6 +64,7 @@
         android:paddingBottom="5dp"
         android:paddingLeft="20dp"
         android:paddingRight="20dp"
+        android:background="#99896958"
         >
         <ImageView
             android:layout_width="30dp"

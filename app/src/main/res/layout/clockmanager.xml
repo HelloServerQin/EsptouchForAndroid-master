@@ -12,8 +12,8 @@
             android:id="@+id/clock_esc"
             android:layout_width="45dp"
             android:layout_height="45dp"
-            android:padding="5dp"
-            android:src="@drawable/icon_06"
+            android:padding="10dp"
+            android:src="@drawable/cancel"
         />
         <TextView
             android:layout_width="0dp"
@@ -28,8 +28,8 @@
             android:id="@+id/clock_confirm"
             android:layout_width="45dp"
             android:layout_height="45dp"
-            android:padding="5dp"
-            android:src="@drawable/icon_06"
+            android:padding="10dp"
+            android:src="@drawable/confrim"
             />
 
     </LinearLayout>

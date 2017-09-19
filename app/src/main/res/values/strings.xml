@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">智能魔方</string>
+    <string name="app_name">和擎智能</string>
     <string name="ssid_alert">未连接wifi网络</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
@@ -10,7 +10,7 @@
     <string name="switchIsSsidHiddenTitle">SSID is Hidden</string>
     <string name="spinnerTaskResultCountTitle">设备个数:</string>
     <string name="btnConfirmTitle">开始</string>
-    <string name="title_activity_main">智能魔方</string>
+    <string name="title_activity_main">和安智控</string>
     <string name="title_activity_reigster">ReigsterActivity</string>
     <string name="title_activity_menu_activity">menu_activity</string>
     <!--view tag-->
